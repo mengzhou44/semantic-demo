@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "cz"
   },
   "repository": {
     "url": "https://github.com/mengzhou44/semantic-demo",
@@ -15,6 +16,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^18.0.1"
   },
   "release": {
@@ -24,5 +27,10 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
