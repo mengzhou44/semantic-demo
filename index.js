@@ -4,8 +4,7 @@ const _ = require('lodash');
 let array1 = [
   [1, 2],
   [4, 5],
-  [7, 8],
-  [9, 10],
+  [7, 8]
 ];
 
 let newArray = _.flatten(array1);
