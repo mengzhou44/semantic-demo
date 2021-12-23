@@ -1,3 +1,14 @@
+# [7.1.0](https://github.com/mengzhou44/semantic-demo/compare/v7.0.0...v7.1.0) (2021-12-23)
+
+
+### Features
+
+* increase array size to 3 ([17256d0](https://github.com/mengzhou44/semantic-demo/commit/17256d02ff80f6b25d9f2799487f4ef115f0f548))
+* **ui:** chanage  release yml ([2e29af0](https://github.com/mengzhou44/semantic-demo/commit/2e29af0c865bcb8b84dcc9ca4d79cd782061b23e))
+* **ui:** change release yml ([2120fd3](https://github.com/mengzhou44/semantic-demo/commit/2120fd3ae007ddb3297af105c47f538be0a51617))
+* **ui:** this is to increase aray to size 4 ([e88fb2f](https://github.com/mengzhou44/semantic-demo/commit/e88fb2f459dffaf2ee9b7ac9b68bb5ababcc3615))
+* **ui:** update release.yml ([1523c73](https://github.com/mengzhou44/semantic-demo/commit/1523c735f7ea1b7f3378f256bb39c29d7dec5e86))
+
 # [7.0.0](https://github.com/mengzhou44/semantic-demo/compare/v6.0.0...v7.0.0) (2021-12-23)
 
 
