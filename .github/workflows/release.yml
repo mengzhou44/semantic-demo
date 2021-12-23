@@ -21,6 +21,5 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_USERNAME: mengzhouaws
-          NPM_PASSWORD: Aa1197344$
+          NPM_TOKEN: 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
         run: npx semantic-release
