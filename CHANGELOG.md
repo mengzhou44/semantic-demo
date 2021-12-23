@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/mengzhou44/semantic-demo/compare/v5.2.0...v6.0.0) (2021-12-23)
+
+
+### Features
+
+* increase array size to 4 ([fb34aa3](https://github.com/mengzhou44/semantic-demo/commit/fb34aa36244cb16e3843e235825ea04bffdef83c))
+
+
+### BREAKING CHANGES
+
+* ignore
+
 # [5.2.0](https://github.com/mengzhou44/semantic-demo/compare/v5.1.0...v5.2.0) (2021-12-23)
 
 
