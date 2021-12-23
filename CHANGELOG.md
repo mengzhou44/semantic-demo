@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/mengzhou44/semantic-demo/compare/v5.1.0...v5.2.0) (2021-12-23)
+
+
+### Features
+
+* **ui:** reduce array size to 3 ([69a2f01](https://github.com/mengzhou44/semantic-demo/commit/69a2f0132a03fbcef78385388fabeefeebea4c54))
+
 # [5.1.0](https://github.com/mengzhou44/semantic-demo/compare/v5.0.0...v5.1.0) (2021-12-23)
 
 
