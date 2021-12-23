@@ -1,3 +1,15 @@
+# [7.0.0](https://github.com/mengzhou44/semantic-demo/compare/v6.0.0...v7.0.0) (2021-12-23)
+
+
+### Features
+
+* **ui:** reduce array size to 2 ([797dc40](https://github.com/mengzhou44/semantic-demo/commit/797dc408084b7ab633a830617d4a70532eae4650))
+
+
+### BREAKING CHANGES
+
+* **ui:** none
+
 # [6.0.0](https://github.com/mengzhou44/semantic-demo/compare/v5.2.0...v6.0.0) (2021-12-23)
 
 
