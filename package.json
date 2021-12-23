@@ -16,6 +16,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^18.0.1"
@@ -31,9 +33,10 @@
       [
         "@semantic-release/git",
         {
-          "assets": ["CHANGELOG.md"],
-          "message":
-            "${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}"
+          "assets": [
+            "CHANGELOG.md"
+          ],
+          "message": "${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}"
         }
       ],
       "@semantic-release/npm",
