@@ -1,3 +1,10 @@
+# [7.2.0](https://github.com/mengzhou44/semantic-demo/compare/v7.1.0...v7.2.0) (2021-12-23)
+
+
+### Features
+
+* **ui:** remove publish script ([041e503](https://github.com/mengzhou44/semantic-demo/commit/041e503c7e24841e0b2584fb28cf0af796dbc77e))
+
 # [7.1.0](https://github.com/mengzhou44/semantic-demo/compare/v7.0.0...v7.1.0) (2021-12-23)
 
 
