@@ -1,3 +1,16 @@
+# [8.0.0](https://github.com/mengzhou44/semantic-demo/compare/v7.2.0...v8.0.0) (2021-12-29)
+
+
+### Features
+
+* **ui:** remove github secrets from release.yml ([72c0669](https://github.com/mengzhou44/semantic-demo/commit/72c066989127f4364cbf44e5f2dacf3e31439a23))
+* **ui:** reverse change ([3c4b04a](https://github.com/mengzhou44/semantic-demo/commit/3c4b04ad4aebdc2e6300304599773c7c4c335fe7))
+
+
+### BREAKING CHANGES
+
+* **ui:** see above
+
 # [7.2.0](https://github.com/mengzhou44/semantic-demo/compare/v7.1.0...v7.2.0) (2021-12-23)
 
 
